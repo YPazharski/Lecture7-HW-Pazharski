@@ -1,3 +1,5 @@
+package Lesson_7;
+
 public class YearChecker {
     public static boolean isLeapYear(int year) {
         year = Math.abs(year);
